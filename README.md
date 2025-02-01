@@ -1,4 +1,4 @@
-# AI Assisted Coding & LLM Prompt Engineering
+# AI-Assisted Coding & LLM Prompt Engineering
 
 ## Introduction
 This repository provides resources and demos related to AI-assisted coding, autoregressive large language models (LLMs), and advanced prompt engineering techniques.
