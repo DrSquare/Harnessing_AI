@@ -1,0 +1,8 @@
+Kaggle Taylor Swift Prompt 
+
+Conduct descriptive analysis which is detailed below by using the uploaded dataset. 
+(1) Check the data frame: dimension, number of columns, types of variables 
+(2) Generate summary stats, and show 5 rows of sample data
+(3) Analyze the patterns across variables 
+(4) Conduct additional analyses as needed
+(5) Create executive summary based on insights from the analyses 

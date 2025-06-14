@@ -1,0 +1,24 @@
+Kaggle Housing Price Regression
+
+
+Adding Context: File or Folder
+\House_Price\data_description.txt
+
+Prompt
+Solve the problem below with the desired goal and metric. You can follow the specified key steps below. This will be provided one by one 
+
+Goal: 
+It is your job to predict the sales price for each house. For each Id in the test set, you must predict the value of the SalePrice variable. 
+
+Metric: 
+Submissions are evaluated on Root-Mean-Squared-Error (RMSE) between the logarithm of the predicted value and the logarithm of the observed sales price. (Taking logs means that errors in predicting expensive houses and cheap houses will affect the result equally.)
+
+Key Steps:
+(1)	Import train.csv
+(2)	Import required libraries for the analyses 
+(3)	Use the data description to understand the train.csv data file
+(4)	Generate summary statistics and describe data
+(5)	Conduct exploratory analyses 
+(6)	Investigate key drivers of housing prices
+(7)	Create a regression model to explain housing prices 
+(8)	Synthesize key insights from the analyses 
